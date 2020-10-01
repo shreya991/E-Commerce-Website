@@ -1,2 +1,2 @@
 # E-Commerce-Website
-MyAwesomeCart: An e-commerce website I created in django.
+MyAwesomeCart: An E-commerce website I created in django with the help of Pyhton .
